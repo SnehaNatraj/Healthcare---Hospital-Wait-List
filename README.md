@@ -54,7 +54,5 @@ Top 5 Specialty_Name concerning Average waiting list\
    Pediatric Dermatology\
    Pediatric ENT
 
-   Paediatric Orthopaedic
-   Paediatric Dermatology
-   Paediatric ENT
+  
 
