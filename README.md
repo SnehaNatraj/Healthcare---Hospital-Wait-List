@@ -43,13 +43,17 @@
 
 ## Inference
 
-On average, through the years from 2018 to 2021, the percentage of patient wait list with respect to their category
-   Inpatient - 10.62%
-   Outpatient - 72.49%
-   Day Case - 16.89%
-Top 5 Specialty_Name with respect to Average waitng list
-   Accident & Emergency
-   Paediatric Cardiology
+On average, through the years from 2018 to 2021, the percentage of patient wait lists concerning their category\
+   Inpatient - 10.62%\
+   Outpatient - 72.49%\
+   Day Case - 16.89%\
+Top 5 Specialty_Name concerning Average waiting list\
+   Accident & Emergency\
+   Paediatric Cardiology\
+   Paediatric Orthopaedic\
+   Pediatric Dermatology\
+   Pediatric ENT
+
    Paediatric Orthopaedic
    Paediatric Dermatology
    Paediatric ENT
